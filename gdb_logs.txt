@@ -1,0 +1,10 @@
+    2  bt
+    3  p reader
+    4  p reader->token
+    5  q
+    6  q
+    7  run testcases/multi_op_err2.s
+    8  p val_a->val
+    9  q
+   10  q
+   11  show commands
